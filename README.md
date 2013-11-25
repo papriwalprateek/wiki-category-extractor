@@ -3,7 +3,7 @@ Wiki_Category_Extractor
 
 This is a simple extractor which extracts wikipedia articles of a given category.
 
-## Catgories Extraction
+## Categories Extraction
 
 Currently wikipedia articles with ancestor category as "Algorithm" is extracted. You can extract more categories by making small changes to the script.
 
