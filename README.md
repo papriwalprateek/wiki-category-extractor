@@ -26,8 +26,8 @@ This gem provides a interface to extract wikipedia articles. The current version
   ```
   
   where,
-  Category is the string which contains the name of the seed category,
-  Pagelimit is the no of pages to be extracted
+  * Category is the string which contains the name of the seed category,
+  * Pagelimit is the no of pages to be extracted
   
   
 #### Example
