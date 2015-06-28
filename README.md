@@ -1,7 +1,7 @@
 Wiki_Category_Extractor
 =======================
 
-This is simple extractor which extracts wikipedia articles of a given category.
+This is a simple extractor which extracts wikipedia articles of a given category.
 
 
 ## Installation
