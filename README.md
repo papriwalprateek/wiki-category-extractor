@@ -33,7 +33,7 @@ This gem provides a interface to extract wikipedia articles. The current version
 #### Example
 
   ```ruby
-  Wiki_Category_Extractor.extract('Algorithms', 100)
+  Wiki_Category_Extractor.extract('Algorithms', 50)
   ```
   
   Check out more categories - Medicine, Sports.
