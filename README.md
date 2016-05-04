@@ -1,4 +1,4 @@
-Wiki_Category_Extractor
+wiki-category-extractor
 =======================
 
 This is a simple extractor which extracts wikipedia articles of a given category.
